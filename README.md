@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Çankırı Cepte - Gizlilik Politikası</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -18,17 +18,16 @@
       color: #005baa;
     }
     h2 {
-      color: #333;
       margin-top: 30px;
       border-bottom: 1px solid #ccc;
       padding-bottom: 5px;
     }
-    p {
-      margin: 10px 0;
-    }
     ul {
-      margin: 0;
       padding-left: 20px;
+    }
+    strong {
+      display: inline-block;
+      margin-top: 10px;
     }
   </style>
 </head>
@@ -57,6 +56,7 @@
     <li>İçerik: İlanlar, yorumlar, değerlendirmeler</li>
     <li>İletişim: Destek talepleri, geri bildirimler</li>
   </ul>
+
   <h3>2.2 Otomatik Toplanan Veriler</h3>
   <ul>
     <li>Cihaz Bilgileri: Model, işletim sistemi, uygulama sürümü, benzersiz cihaz tanımlayıcıları</li>
@@ -64,6 +64,7 @@
     <li>Teknik Veriler: Hata raporları, performans metrikleri, ağ bağlantı bilgileri</li>
     <li>Konum Verileri: Yalnızca kullanıcı açık izni ile ve yakın hizmetleri göstermek amacıyla</li>
   </ul>
+
   <h3>2.3 Üçüncü Taraf Veriler</h3>
   <ul>
     <li>Haber Kaynakları: haberci18.com gibi harici kaynaklardan alınan içerikler</li>
@@ -71,22 +72,15 @@
   </ul>
 
   <h2>🔹 3. Veri Kullanım Amaçları</h2>
-  <h3>3.1 Temel Hizmetler</h3>
   <ul>
     <li>Hesap oluşturma ve yönetimi</li>
     <li>Uygulama özelliklerinin sağlanması</li>
     <li>İlan ekleme ve yönetimi</li>
     <li>Kullanıcılar arası iletişim</li>
-  </ul>
-  <h3>3.2 Hizmet İyileştirme</h3>
-  <ul>
     <li>Uygulama performansının artırılması</li>
     <li>Hata tespiti ve düzeltme</li>
     <li>Kullanıcı deneyiminin iyileştirilmesi</li>
     <li>Yeni özelliklerin geliştirilmesi</li>
-  </ul>
-  <h3>3.3 Güvenlik</h3>
-  <ul>
     <li>Dolandırıcılık önleme</li>
     <li>Hesap güvenliği</li>
     <li>Yasal yükümlülüklerin yerine getirilmesi</li>
@@ -100,6 +94,7 @@
     <li>Expo</li>
     <li>Harita Servisleri</li>
   </ul>
+
   <h3>4.2 Yasal Zorunluluklar</h3>
   <ul>
     <li>Yasal yükümlülükler</li>
@@ -107,37 +102,30 @@
     <li>Güvenlik tehditleri</li>
     <li>Kullanıcı açık izni</li>
   </ul>
+
   <h3>4.3 Veri Satışı</h3>
   <p>Kullanıcı verileri kesinlikle satılmaz, kiralanmaz veya pazarlama amacıyla üçüncü taraflara verilmez.</p>
 
   <h2>🔹 5. Veri Güvenliği</h2>
-  <h3>5.1 Teknik Önlemler</h3>
   <ul>
     <li>Şifreleme</li>
-    <li>Güvenli Sunucular</li>
-    <li>Erişim Kontrolü</li>
-    <li>Düzenli Güvenlik Denetimleri</li>
-  </ul>
-  <h3>5.2 Organizasyonel Önlemler</h3>
-  <ul>
+    <li>Güvenli sunucular</li>
+    <li>Erişim kontrolleri</li>
+    <li>Düzenli güvenlik denetimleri</li>
     <li>Personel gizlilik eğitimi</li>
     <li>Veri işleme politikaları</li>
     <li>Olay müdahale planları</li>
   </ul>
 
   <h2>🔹 6. Veri Saklama</h2>
-  <h3>6.1 Saklama Süreleri</h3>
   <ul>
     <li>Hesap Verileri: Hesap aktif olduğu sürece</li>
     <li>İçerik Verileri: 5 yıl</li>
     <li>Kullanım Verileri: 2 yıl</li>
     <li>Teknik Veriler: 1 yıl</li>
-  </ul>
-  <h3>6.2 Veri Silme</h3>
-  <ul>
-    <li>Kullanıcı hesabı silindiğinde 30 gün içinde tüm kişisel veriler silinir</li>
-    <li>İçerik verileri anonimleştirilir</li>
-    <li>Yasal zorunluluk varsa saklanır</li>
+    <li>Kullanıcı hesabı silindiğinde veriler 30 gün içinde silinir</li>
+    <li>İçerikler anonimleştirilir</li>
+    <li>Yasal gereklilik varsa saklanır</li>
   </ul>
 
   <h2>🔹 7. Kullanıcı Hakları (KVKK)</h2>
@@ -145,9 +133,9 @@
 
   <h2>🔹 8. Çocukların Gizliliği</h2>
   <ul>
-    <li>13 yaş altı veri toplanmaz</li>
+    <li>13 yaş altı kullanıcı verileri toplanmaz</li>
     <li>Ebeveyn izni gerekebilir</li>
-    <li>13 yaş altı veri tespit edilirse silinir</li>
+    <li>Tespit halinde veriler silinir</li>
   </ul>
 
   <h2>🔹 9. Çerezler ve Takip Teknolojileri</h2>
@@ -160,20 +148,20 @@
   <h2>🔹 10. Uluslararası Veri Transferi</h2>
   <ul>
     <li>Veriler Türkiye’de saklanır</li>
-    <li>Gerekirse güvenli ülkelere aktarılır</li>
+    <li>Gerekirse güvenli ülkelere aktarılabilir</li>
     <li>KVKK ve GDPR uyumu sağlanır</li>
   </ul>
 
   <h2>🔹 11. Veri İhlali Bildirimi</h2>
   <ul>
-    <li>72 saat içinde ihlal bildirimi</li>
-    <li>Kullanıcı ve otoritelere bildirim</li>
+    <li>72 saat içinde ihlal bildirimi yapılır</li>
+    <li>Kullanıcılar ve otoriteler bilgilendirilir</li>
   </ul>
 
   <h2>🔹 12. Politika Değişiklikleri</h2>
   <ul>
-    <li>Değişiklikler uygulama içinden duyurulur</li>
-    <li>Onay istenir</li>
+    <li>Değişiklikler uygulama içinde duyurulur</li>
+    <li>Önemli değişiklikler için kullanıcı onayı alınır</li>
   </ul>
 
   <h2>🔹 13. İletişim ve Başvuru</h2>
