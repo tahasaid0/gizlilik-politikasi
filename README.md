@@ -183,7 +183,16 @@
      <strong>🌐 Web:</strong> <a href="https://reaktiftekno.com" target="_blank">reaktiftekno.com</a><br>
      <strong>📱 Uygulama:</strong> Çankırı Cepte (Google Play Store)</p>
 
+  ...
+
   <p><em>Bu gizlilik politikası 30 Temmuz 2025 tarihinde güncellenmiştir.</em></p>
+
+  <h2>🔗 İlgili Politikalar</h2>
+  <ul>
+    <li><a href="https://tahasaid0.github.io/Cocuk-Guvenligi-Politikasi/" target="_blank" rel="noopener noreferrer">Çocuk Güvenliği Politikası</a></li>
+    <li><a href="https://tahasaid0.github.io/Hesap-Silme-Talebi/" target="_blank" rel="noopener noreferrer">Hesap Silme Talebi</a></li>
+  </ul>
 
 </body>
 </html>
+
