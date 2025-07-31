@@ -34,7 +34,7 @@
 <body>
 
   <h1>Çankırı Cepte - Gizlilik Politikası</h1>
-  <p><strong>Son Güncelleme:</strong> 30 Temmuz 2025</p>
+  <p><strong>Son Güncelleme:</strong> 31 Temmuz 2025</p>
   <p><strong>Versiyon:</strong> 3.0</p>
 
   <h2>📋 Genel Bilgiler</h2>
