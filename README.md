@@ -35,7 +35,7 @@
 
   <h1>Çankırı Cepte - Gizlilik Politikası</h1>
   <p><strong>Son Güncelleme:</strong> 30 Temmuz 2025</p>
-  <p><strong>Versiyon:</strong> 2.8</p>
+  <p><strong>Versiyon:</strong> 3.0</p>
 
   <h2>📋 Genel Bilgiler</h2>
   <p>Bu gizlilik politikası, "Çankırı Cepte" mobil uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını, sakladığını ve koruduğunu açıklar. Bu politika, Google Play Developer Program Policies ve Türkiye Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca hazırlanmıştır.</p>
