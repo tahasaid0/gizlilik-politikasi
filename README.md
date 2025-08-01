@@ -34,12 +34,18 @@
 <body>
 
   <h1>Çankırı Cepte - Gizlilik Politikası</h1>
-  <p><strong>Son Güncelleme:</strong> 31 Temmuz 2025</p>
-  <p><strong>Versiyon:</strong> 3.0</p>
+  <p><strong>Son Güncelleme:</strong> 1 Ağustos 2025</p>
+  <p><strong>Versiyon:</strong> 3.1</p>
 
   <h2>📋 Genel Bilgiler</h2>
   <p>Bu gizlilik politikası, "Çankırı Cepte" mobil uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını, sakladığını ve koruduğunu açıklar. Bu politika, Google Play Developer Program Policies ve Türkiye Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca hazırlanmıştır.</p>
-  <p><strong>⚠️ ÖNEMLİ:</strong> Bu uygulama resmi bir devlet kurumu tarafından geliştirilmemiştir. Sunulan bilgiler sadece bilgilendirme amaçlıdır ve resmi kaynaklardan alınmıştır.</p>
+
+<div style="background: #ffebee; border-left: 4px solid #f44336; padding: 10px; margin: 20px 0;">
+  <strong>⚠️ ÖNEMLİ:</strong> Bu uygulama resmi bir devlet kurumu tarafından geliştirilmemiştir. 
+  Sunulan bilgiler kamuya açık kaynaklardan derlenmiştir. Doğruluk için lütfen ilgili resmi 
+  kurumlarla iletişime geçiniz.
+</div>
+
 
   <h2>🔹 1. Veri Sorumlusu</h2>
   <p><strong>Uygulama Adı:</strong> Çankırı Cepte</p>
@@ -51,8 +57,7 @@
   <h3>2.1 Kullanıcı Tarafından Sağlanan Veriler</h3>
   <ul>
     <li>Kişisel Bilgiler: Ad, soyad, e-posta adresi, telefon numarası</li>
-    <li>Hesap Bilgileri: Kullanıcı adı, şifre (şifreli olarak saklanır)</li>
-    <li>Profil Bilgileri: Profil fotoğrafı (isteğe bağlı)</li>
+    <li>Hesap Bilgileri: e-posta adresi, şifre (şifreli olarak saklanır)</li>
     <li>İçerik: İlanlar, yorumlar, değerlendirmeler</li>
     <li>İletişim: Destek talepleri, geri bildirimler</li>
   </ul>
@@ -78,6 +83,7 @@
     <li>İlan ekleme ve yönetimi</li>
     <li>Kullanıcılar arası iletişim</li>
     <li>Uygulama performansının artırılması</li>
+    <li>Kullanıcıların Yorum Haklarını Kullanması</li>
     <li>Hata tespiti ve düzeltme</li>
     <li>Kullanıcı deneyiminin iyileştirilmesi</li>
     <li>Yeni özelliklerin geliştirilmesi</li>
@@ -92,7 +98,6 @@
     <li>Supabase</li>
     <li>Google Play</li>
     <li>Expo</li>
-    <li>Harita Servisleri</li>
   </ul>
 
   <h3>4.2 Yasal Zorunluluklar</h3>
@@ -119,14 +124,13 @@
 
   <h2>🔹 6. Veri Saklama</h2>
   <ul>
-    <li>Hesap Verileri: Hesap aktif olduğu sürece</li>
-    <li>İçerik Verileri: 5 yıl</li>
-    <li>Kullanım Verileri: 2 yıl</li>
-    <li>Teknik Veriler: 1 yıl</li>
-    <li>Kullanıcı hesabı silindiğinde veriler 30 gün içinde silinir</li>
-    <li>İçerikler anonimleştirilir</li>
-    <li>Yasal gereklilik varsa saklanır</li>
+  <li><strong>Hesap Verileri:</strong> Hesap aktif olduğu sürece saklanır. Silinme durumunda 30 gün içinde tamamen kaldırılır.</li>
+  <li><strong>İçerik Verileri:</strong> İlanlar ve yorumlar 1 yıl saklanır. Kullanıcı hesabı silinirse 30 gün içinde anonimleştirilir.</li>
+  <li><strong>Kullanım Verileri:</strong> Anonim istatistikler 6 ay saklanır.</li>
+  <li><strong>Teknik Veriler:</strong> Hata raporları 3 ay saklanır (kişisel veri içermez).</li>
+  <li><strong>Yasal Zorunluluklar:</strong> Yasa gereği saklanması gereken veriler, ilgili mevzuatta belirtilen süre kadar tutulur.</li>
   </ul>
+  <p>⚠️ <strong>Önemli:</strong> Bu uygulama kullanıcıların kişisel verilerini (konum, iletişim bilgisi vb.) <strong>toplamaz ve saklamaz</strong>. Yukarıdaki maddeler yalnızca       kullanıcı tarafından oluşturulan içerikler (ilan/yorum) için geçerlidir.</p>
 
   <h2>🔹 7. Kullanıcı Hakları (KVKK)</h2>
   <p>KVKK kapsamında tüm temel haklara sahipsiniz: bilgi alma, erişim, düzeltme, silme, işlemeyi sınırlama, taşınabilirlik, itiraz.</p>
@@ -180,12 +184,23 @@
   <p>Bu uygulama resmi bir devlet kurumu tarafından geliştirilmemiştir. Sunulan bilgiler sadece bilgilendirme amaçlıdır. Doğruluk için resmi web sitelerine başvurunuz.</p>
 
   <p><strong>📞 Destek:</strong> reaktifbilisim18@gmail.com<br>
-     <strong>🌐 Web:</strong> <a href="https://reaktiftekno.com" target="_blank">reaktiftekno.com</a><br>
      <strong>📱 Uygulama:</strong> Çankırı Cepte (Google Play Store)</p>
+
+<h2>🔹 16. Veri Kaynakları ve Doğruluk</h2>
+<p>Uygulamada sunulan bilgiler şu resmi/kamuya açık kaynaklardan alınmıştır:</p>
+<ul>
+  <li><strong>Eczane bilgileri:</strong> Çankırı Eczanecılar Odası'nın güncel nöbetçi eczane listesi.</li>
+  <li><strong>Otobüs saatleri:</strong> otobussaatleri.org</li>
+  <li><strong>Akaryakıt fiyatları:</strong> Döviz.com API'si (üçüncü taraf).</li>
+  <li><strong>Doktor programları:</strong> Çankırı Devlet Hastanesi'nin kamuya açık randevu sistemi.</li>
+  <li><strong>Üniversite Detayları:</strong> Çankırı Karatekin Üniversitesi' nin kamuya açık verileri.</li>
+</ul>
+<p>Bu bilgilerin doğruluğunu teyit etmek kullanıcının sorumluluğundadır.</p>
+
 
   ...
 
-  <p><em>Bu gizlilik politikası 30 Temmuz 2025 tarihinde güncellenmiştir.</em></p>
+  <p><em>Bu gizlilik politikası 1 Ağustos 2025 tarihinde güncellenmiştir.</em></p>
 
   <h2>🔗 İlgili Politikalar</h2>
   <ul>
